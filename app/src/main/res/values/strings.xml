@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">VerySecureApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Password Entry</string>
+    <string name="second_fragment_label">Error</string>
+    <string name="next">Log In</string>
+    <string name="previous">Return</string>
+
+    <string name="hello_first_fragment">Enter password to proceed</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="password_prompt">Enter password</string>
+    <string name="change_password">Change password</string>
+    <string name="get_programming_help">Get programming help</string>
+    <string name="calc">Fast native calculator</string>
+    <string name="oldpass">Old password</string>
+    <string name="newpass">New password</string>
+    <string name="confirmpass">Confirm password</string>
+    <string name="query">Query</string>
+    <string name="search">Search</string>
+</resources>
